@@ -12,7 +12,8 @@
     "axios": "^0.16.2",
     "next": "^3.0.6",
     "react": "^15.6.1",
-    "react-dom": "^15.6.1"
+    "react-dom": "^15.6.1",
+    "styled-jsx": "^1.0.10"
   },
   "devDependencies": {
     "express": "^4.15.4"
